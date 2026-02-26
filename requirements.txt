@@ -1,0 +1,13 @@
+beautifulsoup4==4.14.3
+dateparser==1.2.2
+openai==2.24.0
+pandas==3.0.1
+psycopg2==2.9.10
+python-dotenv==1.2.1
+pytubefix==10.3.8
+rich==14.3.3
+selenium==4.41.0
+streamlit==1.48.1
+streamlit_base_extras==0.2.45
+timeago==1.0.16
+undetected_chromedriver==3.5.5
